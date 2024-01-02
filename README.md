@@ -13,5 +13,3 @@ Expressing my gratitude towards the Prodigy Infotech.
 # AUTHOR 
  RIDDHI VIPUL MEHTA 
 
-# CONNECT WITH ME
- Linkedin: https://www.linkedin.com/in/riddhi-mehta
