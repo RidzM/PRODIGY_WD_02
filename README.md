@@ -22,4 +22,4 @@ RESET: To set the Stopwatch back to zero.
  RIDDHI VIPUL MEHTA 
 
 # CONNECT WITH ME 
-LINKEDIN: wwww.linkedin.com/in/riddhi-mehta
+LINKEDIN: www.linkedin.com/in/riddhi-mehta
