@@ -19,11 +19,9 @@ START & PAUSE: These 2 features provide the facility of begin/pause the stopwatc
 RESET: To set the Stopwatch back to zero.
 
 # TECH STACK 
-HTML
-
-CSS
-
-JAVASCRIPT 
+1. HTML
+2. CSS
+3. JAVASCRIPT 
 
 # AUTHOR 
  RIDDHI VIPUL MEHTA 
